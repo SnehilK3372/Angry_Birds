@@ -1,0 +1,269 @@
+Backgrounds/1161813.jpg
+Backgrounds/1cdes45tsjt51.png
+Backgrounds/285441505863fc47a962c52216121488.webp
+Backgrounds/66ic9c791ih61.webp
+Backgrounds/Ab2halloween2016loading.webp
+Backgrounds/Ab2halloween2017loading.webp
+Backgrounds/Ab2Super_Bowl_LII_loading.webp
+Backgrounds/ABEpic_NewLoadingScreen.webp
+Backgrounds/bg2.jpg
+Backgrounds/bg3.png
+Backgrounds/bg4.png
+Backgrounds/bg5.jpeg
+Backgrounds/bg6.jpg
+Backgrounds/bg9.jpg
+Backgrounds/bg_L2.jpg
+Backgrounds/download.jpeg
+Backgrounds/Genshin-Impact-Huaguang-Stone-Forest.avif
+Backgrounds/genshin_night.jpg
+Backgrounds/genshin_wide.jpg
+Backgrounds/genshin_wide1.jpg
+Backgrounds/genshin_wide2.jpg
+Backgrounds/gen_night.jpeg
+Backgrounds/gen_night_size.jpeg
+Backgrounds/hq720.jpg
+Backgrounds/img.jpg
+Backgrounds/inazuma-city-genshin-Cropped-1.avif
+Backgrounds/let_the_wind_lead_by_sevenics_jean.jpg
+Backgrounds/Liyue_sunset.jpg
+Backgrounds/lkfbwij2uhz51.png
+Backgrounds/LoseScreen.jpg
+Backgrounds/lumine_wide.jpg
+Backgrounds/lumine_wide1.jpg
+Backgrounds/lumine_wide2.jpg
+Backgrounds/made-this-wallpaper-of-lantern-rite-2024-landscape-v0-g7tp6vnx7kic1.webp
+Backgrounds/mount_wide.jpg
+Backgrounds/mount_wide1.jpg
+Backgrounds/mount_wide2.jpg
+Backgrounds/multiple-display-mountains-snow-nature-wallpaper-c1b4ba2a902ec5b27032d3c4aefe604d.jpg
+Backgrounds/MythiC_slingshot2.png
+Backgrounds/poster.png
+Backgrounds/retry.jpg
+Backgrounds/sumeru_morning.jpg
+Backgrounds/sunset-on-sumeru-city-v0-awpap3popuk91.webp
+Backgrounds/sunset_beyond_liyue_by_sevenics.png
+Backgrounds/t1.jpg
+Backgrounds/tfinal.jpg
+Backgrounds/thumb-1920-1272169.jpg
+Backgrounds/title2.jpg
+Backgrounds/TitleScreen.jpg
+Backgrounds/visions_of_inazuma_by_sevenics.png
+Backgrounds/wallpaperflare.com_wallpaper (1).jpg
+Backgrounds/wallpaperflare.com_wallpaper (2).jpg
+Backgrounds/wallpaperflare.com_wallpaper.jpg
+Backgrounds/wide.jpg
+Backgrounds/zkwi2z45ithd1.png
+Backgrounds/zkwi2z45ithd1_edited.jpg
+Birds/154042.png
+Birds/166300.png
+Birds/167829.png
+Birds/167830.png
+Birds/167831.png
+Birds/171295.png
+Birds/177065.png
+Birds/atlanteanBubbles35.png
+Birds/atlanteanBubbles50.png
+Birds/Birds.png
+Birds/Blocks 1.png
+Birds/Blocks 2.png
+Birds/Blue35.png
+Birds/Box.png
+Birds/Bubbles hat.jpg
+Birds/BubblesAtlantean.jpg
+Birds/Cobalt_1.webp
+Birds/darknightTerence120.png
+Birds/darknightTerence50.png
+Birds/darknightTerence80.png
+Birds/dragonRed.png
+Birds/dragonRed1.png
+Birds/dragonRed100.png
+Birds/Elder_Diamond_Slingshot.webp
+Birds/Elder_Gold_Slingshot.webp
+Birds/gokuRed.png
+Birds/heres-the-full-image-of-the-angry-birds-space-prototype-v0-w1y5brupyp6c1.png
+Birds/heres-the-full-image-of-the-angry-birds-space-prototype-v0-w1y5brupyp6c1.webp
+Birds/hunterBomb.png
+Birds/Legendary_Slingshot.png
+Birds/Legendary_Slingshot.webp
+Birds/mainLogo.png
+Birds/melodyAtlantean.jpg
+Birds/mythicBubbles50.png
+Birds/Mythic_Slingshot.png
+Birds/MythiC_slingshot2.png
+Birds/ninjaChuck50.png
+Birds/Originals/Blue164.png
+Birds/Originals/goku_ssj3_angry_birds_crossover_by_brinx_dragonball_d8z4tqp-414w-2x.jpg
+Birds/Originals/Mythic_Diamond_Slingshot.png
+Birds/Originals/Mythic_Diamond_Slingshot.webp
+Birds/Originals/Mythic_Gold_Slingshot.png
+Birds/Originals/Mythic_Gold_Slingshot.webp
+Birds/Originals/phoenixRed.png
+Birds/Originals/Screenshot_20241127_012951_Angry Birds 2.jpg
+Birds/Originals/Screenshot_20241129_034149_Angry Birds 2.jpg
+Birds/Originals/Screenshot_20241129_034534_Angry Birds 2.jpg
+Birds/Originals/Screenshot_20241129_034538_Angry Birds 2.jpg
+Birds/Originals/Screenshot_20241129_034550_Angry Birds 2.jpg
+Birds/Originals/Screenshot_20241129_034659_Angry Birds 2.jpg
+Birds/Originals/Screenshot_20241129_034825_Angry Birds 2.jpg
+Birds/Originals/Screenshot_20241129_034850_Angry Birds 2.jpg
+Birds/Originals/Screenshot_20241129_035029_Angry Birds 2.jpg
+Birds/Originals/Screenshot_20241130_061559_Angry Birds 2.jpg
+Birds/Originals/Screenshot_20241130_061617_Angry Birds 2.jpg
+Birds/Originals/Screenshot_20241130_061652_Angry Birds 2.jpg
+Birds/phoenixBomb55.png
+Birds/phoenixChuck50.png
+Birds/phoenixRed50.png
+Birds/PigKing.png
+Birds/Pigs.png
+Birds/Red1.png
+Birds/Red2.png
+Birds/Red4.png
+Birds/REDDO.png
+Birds/retryButton.png
+Birds/Score.png
+Birds/Scores.png
+Birds/spaceBomb58.png
+Birds/spaceRed50.png
+Birds/starChuck50.png
+Birds/T.png
+Birds/Terence1.png
+Birds/tribalRed50.png
+Birds/trophy.png
+Birds/trophy1.png
+Birds/vampChuck50.png
+Birds/wastelanderRed50.png
+Birds/wastelanderRed60.png
+Blocks/atlases/spritesheet.atlas
+Blocks/atlases/spritesheet.png
+Blocks/rectGlass.png
+Blocks/RectStone.png
+Blocks/rectWood.png
+Blocks/smallerRectGlass.png
+Blocks/smallerRectWood.png
+Blocks/smallRectGlass.png
+Blocks/smallRectStone.png
+Blocks/smallRectWood.png
+Blocks/squareGlass.png
+Blocks/squareStone.png
+Blocks/squareWood.png
+Blocks 3.png
+Buttons/ABLogo.png
+Buttons/ABLogo1.png
+Buttons/Blocks 2.png
+Buttons/BUTTONS_NEW_1.png
+Buttons/cloudSave.png
+Buttons/exit.png
+Buttons/Level1Pause.png
+Buttons/Levels.png
+Buttons/logo-Photoroom1.png
+Buttons/menuButton.png
+Buttons/Mythic_Gold_Slingshot.png
+Buttons/Overlay.png
+Buttons/pauseButton.png
+Buttons/playGame.png
+Buttons/playGame1.png
+Buttons/playGame2.png
+Buttons/reload.png
+Buttons/restart.png
+Buttons/rp36l8ph6rw81.png
+Buttons/Settings.png
+Font/angrybirds-regular.ttf
+Font/Fof/FeastOfFlesh.ttf
+Font/Fof/FeastOfFleshItalic.ttf
+Font/Fof/info.txt
+Font/Fof/misc/font info.txt
+Font/Score.png
+Levels/2014e928419533.55bf8c3eace04.jpg
+Levels/267289899_4923867647670991_7570009286206018052_n.jpg
+Levels/312092169_5894257417298671_6671070047080038628_n.jpg
+Levels/464971652_8942628659128183_7232038076357156405_n.png
+Levels/8_murliSoogrim_musketeer_hatset.jpg
+Levels/a1.jpg
+Levels/BestScore.png
+Levels/bg_L2.png
+Levels/Birds.png
+Levels/blue_vamp.bmp
+Levels/bomb.bmp
+Levels/BubblesAtlanteancrop.png
+Levels/Bubblescrop.png
+Levels/chuck.bmp
+Levels/frame.png
+Levels/Genshin-Impact-Huaguang-Stone-Forest.jpg
+Levels/gen_night.jpeg
+Levels/ground.png
+Levels/hq720 (1).jpg
+Levels/inazumamorning2.jpg
+Levels/inazumamorningcrop.jpg
+Levels/inazumamorningcrop1.jpg.png
+Levels/knightTerence256.png
+Levels/L2.png
+Levels/L3.jpg
+Levels/L3_2.jpeg
+Levels/L3_2.jpg
+Levels/Level1.jpg.png
+Levels/Level1.png
+Levels/Level11.png
+Levels/Level1background.jpg
+Levels/Level1_new.png
+Levels/Level1_new_new.png
+Levels/Level1_notfinal.jpg.png
+Levels/Level2background.jpg
+Levels/level2_notfinal.png
+Levels/Level_1.png
+Levels/Level_2.png
+Levels/Level_3.png
+Levels/Level_3_back.png
+Levels/Level_3_new.png
+Levels/Level_3_new_new.png
+Levels/Liyue_sunset.png
+Levels/matilda.jpg
+Levels/maxresdefault (1).jpg
+Levels/maxresdefault.jpg
+Levels/MelodyAtlanteancrop.png
+Levels/Mythic_Diamond_Slingshot.png
+Levels/newTerence.bmp
+Levels/pngfind.com-angry-pig-png-4363617.png
+Levels/REDDO.bmp
+Levels/red_hat.png
+Levels/red_vamp.jpg
+Levels/Screenshot 2024-11-26 134533.bmp
+Levels/Screenshot 2024-11-26 134533.jpg
+Levels/Screenshot_20241027_143122_Angry Birds 2.jpg
+Levels/Screenshot_20241027_143343_Angry Birds 2.jpg
+Levels/Screenshot_20241027_143348_Angry Birds 2.jpg
+Levels/Screenshot_20241027_143354_Angry Birds 2.jpg
+Levels/Screenshot_20241127_011209_Angry Birds 2.jpg
+Levels/terenceHat.png
+Levels/terence_hat.jpg
+Levels/terence_vamp_hat.png
+Levels/tfinal.jpg
+Levels/trophy0.png
+Levels/trophy1.png
+libgdx.png
+Logo/logo-Photoroom.png
+Logo/logo-Photoroom2.png
+Logo/SuperRed.png
+Pigs/154042.png
+Pigs/167831.png
+Pigs/chef/1.png
+Pigs/chef/2.png
+Pigs/chef/3.png
+Pigs/chef.atlas
+Pigs/chef.png
+Pigs/king/1.png
+Pigs/king/2.png
+Pigs/king/3.png
+Pigs/king.atlas
+Pigs/king.png
+Pigs/space/1.png
+Pigs/space/2.png
+Pigs/space/3.png
+Pigs/space.atlas
+Pigs/space.png
+ui/font-list.fnt
+ui/font-subtitle.fnt
+ui/font-window.fnt
+ui/font.fnt
+ui/uiskin.atlas
+ui/uiskin.json
+ui/uiskin.png
