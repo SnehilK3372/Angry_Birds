@@ -1,0 +1,83 @@
+
+spritesheet.png
+size: 512, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+RectStone
+  rotate: false
+  xy: 283, 90
+  size: 176, 76
+  orig: 176, 76
+  offset: 0, 0
+  index: -1
+rectGlass
+  rotate: false
+  xy: 101, 26
+  size: 180, 76
+  orig: 180, 76
+  offset: 0, 0
+  index: -1
+rectWood
+  rotate: false
+  xy: 283, 168
+  size: 177, 76
+  orig: 177, 76
+  offset: 0, 0
+  index: -1
+smallRectGlass
+  rotate: false
+  xy: 115, 168
+  size: 151, 76
+  orig: 151, 76
+  offset: 0, 0
+  index: -1
+smallRectStone
+  rotate: false
+  xy: 283, 12
+  size: 146, 76
+  orig: 146, 76
+  offset: 0, 0
+  index: -1
+smallRectWood
+  rotate: false
+  xy: 2, 2
+  size: 49, 100
+  orig: 49, 100
+  offset: 0, 0
+  index: -1
+smallerRectGlass
+  rotate: false
+  xy: 53, 2
+  size: 46, 100
+  orig: 46, 100
+  offset: 0, 0
+  index: -1
+smallerRectWood
+  rotate: false
+  xy: 115, 128
+  size: 144, 38
+  orig: 144, 38
+  offset: 0, 0
+  index: -1
+squareGlass
+  rotate: false
+  xy: 78, 104
+  size: 35, 140
+  orig: 35, 140
+  offset: 0, 0
+  index: -1
+squareStone
+  rotate: false
+  xy: 2, 104
+  size: 36, 140
+  orig: 36, 140
+  offset: 0, 0
+  index: -1
+squareWood
+  rotate: false
+  xy: 40, 104
+  size: 36, 140
+  orig: 36, 140
+  offset: 0, 0
+  index: -1
