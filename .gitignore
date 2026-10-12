@@ -1,0 +1,10 @@
+# JVM crash logs
+hs_err_pid*.log
+
+# Build output
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
